@@ -1,0 +1,27 @@
+{
+  "name": "transferwise",
+  "version": "1.0.0",
+  "description": "A transferwise command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianoliveira/transferwise-cli.git"
+  },
+  "keywords": [
+    "transferwise",
+    "cli"
+  ],
+  "author": "Cristian Oliveira",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "transferwise": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/cristianoliveira/transferwise-cli/issues"
+  },
+  "homepage": "https://github.com/cristianoliveira/transferwise-cli#readme"
+}
